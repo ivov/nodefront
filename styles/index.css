@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+
+select {
+  /* for Firefox */
+  -moz-appearance: none;
+  /* for Chrome */
+  -webkit-appearance: none;
+}
+
+@tailwind utilities;

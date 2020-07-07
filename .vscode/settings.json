@@ -1,0 +1,7 @@
+{
+	"editor.formatOnSave": true,
+	"files.exclude": {
+		"node_modules": true,
+	},
+	"css.customData": [".vscode/css_custom_data.json"]
+}
